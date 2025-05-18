@@ -8,8 +8,7 @@
   <name>tomcatLauncher Maven demo</name>
   <url>http://maven.apache.org</url>
   <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+    <tomcat.version>11.0.0</tomcat.version> <!-- Replace with the desired version -->
   </properties>
   <dependencies>
     <dependency>
